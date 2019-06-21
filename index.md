@@ -90,6 +90,3 @@ When I'm not studying or coding, I like to write from time to time.
 
 * [Deep Learning and Artificial Intelligence](https://medium.com/@danielwrafter/deep-learning-and-artificial-intelligence-2e35a9a1f77f)
 
-/ # Some things I'm working on.
-
-/ I am currently teaching high school mathematics abroad at ITE Enrico Tosi. I've built some fun lessons using Jupyter, /  / incooporating data visualizations from plotly and matplotlib, which are posted [here](https://dwraft.github.io/GTL2019/).
